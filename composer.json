@@ -1,5 +1,5 @@
 {
-    "name": "phonyland/ngram",
+    "name": "yurichsergey/phonyland-ngram",
     "description": "\ud83e\uddea N-Gram Tools for \ud83d\ude43 Phony Language Models with sanitizing, tokenization, n-gram extraction, frequency mapping",
     "license": "MIT",
     "type": "library",
